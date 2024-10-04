@@ -16,7 +16,7 @@ WebServer server(80);
 DHT dht(DHT_PIN, DHT_TYPE);
 
 float temperature = 0;    // Global variable for temperature
-float distance = 0;       // Global variable for distance
+float distance = 0;       // Global variable for distance...
 
 
 void setup() {
